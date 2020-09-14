@@ -1,3 +1,4 @@
+
 div a:link, div a:visited{
 backgound-color:red;
 color:white;
@@ -5,6 +6,8 @@ padding:14px 25px;
 text-align:centre;
 text-decoration:none;
 display:inline-block;
+border;2px solid black;
+border-radius:10px;
 }
 div a:hover,div a:active{
 backgound-color:green;
