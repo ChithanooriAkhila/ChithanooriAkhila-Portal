@@ -80,10 +80,11 @@
   display: inline-block;
   border:2px solid black;
   border-radius:10px;
-  margin-bottom:2rem;
+  margin-bottom:5rem;
 }
 
   .certificates:hover, .certificates:active {
   background-color: red;
+  color:white;
 }
     
