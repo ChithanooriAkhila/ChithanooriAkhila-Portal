@@ -68,7 +68,10 @@
     margin: 0 auto;
     text-align: left;
   }
-  tr a:link,tr a:visited {
+  th{
+    test-align:centre;
+  }
+  td a:link,td a:visited {
   background-color: #f44336;
   color: white;
   padding: 14px 25px;
@@ -80,7 +83,7 @@
   margin-bottom:2rem;
 }
 
-  tr a:hover, tr a:active {
+  td a:hover, td a:active {
   background-color: red;
 }
     
