@@ -1,9 +1,9 @@
- p a {
+.certificates {
     color:blue;
     text-decoration: none; 
   }
 
- p a:hover {
+.certificates:hover {
     color:red;
     text-decoration: none; 
   }
