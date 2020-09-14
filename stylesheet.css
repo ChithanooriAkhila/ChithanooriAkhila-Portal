@@ -68,7 +68,7 @@
     margin: 0 auto;
     text-align: left;
   }
-  ol li a:link,ol li a:visited {
+  tr a:link,tr a:visited {
   background-color: #f44336;
   color: white;
   padding: 14px 25px;
@@ -80,7 +80,7 @@
   margin-bottom:2rem;
 }
 
-ol li a:hover, ol li a:active {
+  tr a:hover, tr a:active {
   background-color: red;
 }
     
