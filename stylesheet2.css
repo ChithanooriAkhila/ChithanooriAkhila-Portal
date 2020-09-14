@@ -16,6 +16,7 @@
   display: inline-block;
   border:2px solid black;
   border-radius:10px;
+    margin:0 auto;
 }
 
 .certificate1:hover, .certificate1:active {
