@@ -1,0 +1,12 @@
+div a:link, div a:visited{
+backgound-color:red;
+color:white;
+padding:14px 25px;
+text-align:centre;
+text-decoration:none;
+display:inline-block;
+}
+div a:hover,div a:active{
+backgound-color:green;
+color:white;
+}
