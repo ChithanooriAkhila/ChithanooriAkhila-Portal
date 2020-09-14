@@ -75,10 +75,12 @@
   text-align: center;
   text-decoration: none;
   display: inline-block;
+  border:2px solid black;
+  float:left;
 }
 
 ol li a:hover, ol li a:active {
-  background-color: dark grey;
+  background-color: blue;
   color:white;
 }
     
