@@ -69,9 +69,9 @@
     text-align: left;
   }
   th{
-    test-align:centre;
+    text-align:centre;
   }
-  .cerficates:link,.certificates:visited {
+  .cerficates a:link,.certificates a:visited {
   background-color: #f44336;
   color: white;
   padding: 14px 25px;
@@ -83,7 +83,7 @@
   margin-bottom:5rem;
 }
 
-  .certificates:hover, .certificates:active {
+  .certificates a:hover, .certificates a:active {
   background-color: red;
   color:white;
 }
