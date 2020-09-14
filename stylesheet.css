@@ -76,7 +76,8 @@
   text-decoration: none;
   display: inline-block;
   border:2px solid black;
-  border-radius:2px;
+  border-radius:10px;
+  margin-bottom:2rem;
 }
 
 ol li a:hover, ol li a:active {
