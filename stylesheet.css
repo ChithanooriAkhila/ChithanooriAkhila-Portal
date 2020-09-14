@@ -71,7 +71,7 @@
   th{
     text-align:centre;
   }
-  .cerficates a:link,.certificates a:visited {
+  div a:link,div a:visited {
   background-color: #f44336;
   color: white;
   padding: 14px 25px;
@@ -83,7 +83,7 @@
   margin-bottom:5rem;
 }
 
-  .certificates a:hover, .certificates a:active {
+  div a:hover, div a:active {
   background-color: red;
   color:white;
 }
