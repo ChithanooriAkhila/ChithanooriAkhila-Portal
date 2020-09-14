@@ -13,8 +13,12 @@ a:hover, a:active {
   background-color: green;
 }
  
-p a{
-text-decoration:none;
-  text-align:centre;
+a {
+    color:blue;
+    text-decoration: none; 
+  }
 
-}
+  a:hover {
+    color:red;
+    text-decoration: none; 
+  }
