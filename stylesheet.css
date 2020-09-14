@@ -68,3 +68,17 @@
     margin: 0 auto;
     text-align: left;
   }
+  ol li a:link, ol li a:visited {
+  background-color: light grey;
+  color: black;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+ol li a:hover, ol li a:active {
+  background-color: dark grey;
+  color:white;
+}
+    
