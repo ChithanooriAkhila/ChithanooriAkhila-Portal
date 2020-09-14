@@ -13,12 +13,12 @@ a:hover, a:active {
   background-color: green;
 }
  
-a {
+ p a {
     color:blue;
     text-decoration: none; 
   }
 
-  a:hover {
+ p a:hover {
     color:red;
     text-decoration: none; 
   }
