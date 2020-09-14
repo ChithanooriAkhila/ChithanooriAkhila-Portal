@@ -71,7 +71,7 @@
   th{
     test-align:centre;
   }
-  td a:link,td a:visited {
+  .cerficates:link,.certificates:visited {
   background-color: #f44336;
   color: white;
   padding: 14px 25px;
@@ -83,7 +83,7 @@
   margin-bottom:2rem;
 }
 
-  td a:hover, td a:active {
+  .certificates:hover, .certificates:active {
   background-color: red;
 }
     
