@@ -1,18 +1,26 @@
-/* Cascading stylesheet for the website */
-
-/* Text inside these asterisks and slashes are comments for human */
-
-  a {
-    /* set the text color to blue here */
+.certificates {
     color:blue;
-    text-decoration: none; /* This means we do not want hyperlinks to be underlined */
+    text-decoration: none; 
   }
 
-  a:hover {
-    /* set the text color to red here */
+.certificates:hover {
     color:red;
-    text-decoration: none; /* This means we do not want hyperlinks to be underlined */
+    text-decoration: none; 
   }
+.certificate1:link, .certificate1:visited {
+  background-color: red;
+  color: white;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  border:2px solid black;
+  border-radius:10px;
+}
+
+.certificate1:hover, .certificate1:active {
+  background-color: green;
+}
 
   body {
     /* set the background color here */
