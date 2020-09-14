@@ -68,26 +68,5 @@
     margin: 0 auto;
     text-align: left;
   }
-  th{
-    text-align:centre;
-  }
-  div a:link,div a:visited {
-  background-color: #f44336;
-  color: white;
-}
-
-  div a:hover, div a:active {
-  background-color: red;
-  color:white;
-}
-div a{
-  padding: 14px 25px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  border:2px solid black;
-  border-radius:10px;
-  margin-bottom:5rem;
-
-}
+  
     
