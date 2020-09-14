@@ -1,5 +1,5 @@
 
-div a:link, div a:visited{
+a:link, a:visited{
 backgound-color:red;
 color:white;
 padding:14px 25px;
@@ -9,7 +9,7 @@ display:inline-block;
 border;2px solid black;
 border-radius:10px;
 }
-div a:hover,div a:active{
+a:hover, a:active{
 backgound-color:green;
 color:white;
 }
